@@ -8,9 +8,9 @@
 - ⭐ Occasionally updating @[**z-ing**](https:z-ing.net)
 - ⭐ Contributed to the NZ Tourism and Aviation industry [NZ Tourism forecasts and NZIER's paper ](https://www.mbie.govt.nz/assets/fbed8cd9b2/tourism-forecasts-2012-2018-technical-report.pdf)
 - 🧻 Now and previously working on:
-    - 🔌[SeamlessValidation Python package](https://pypi.org/project/seamlessvalidation/)
-    - 🐑[AGI bot integration](https://zhouzhuzheng-chatgpt.streamlit.app)
-    - [Streamlit stuff](https://zhouzhuzheng-digital-cv.streamlit.app)
-    - 😴 [Cypto stuff](https://zhouzhuzheng-price-prediction.streamlit.app/)
+    - 🕹️[SeamlessValidation Python package](https://pypi.org/project/seamlessvalidation/)
+    - 🦄 🦜[AGI bot integration](https://zhouzhuzheng-chatgpt.streamlit.app)
+    - 🎥🔴📺🎮[Streamlit stuff](https://zhouzhuzheng-digital-cv.streamlit.app)
+    - ▬ι══════ﺤ [Cypto stuff](https://zhouzhuzheng-price-prediction.streamlit.app/)
 
 
