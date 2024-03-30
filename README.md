@@ -15,5 +15,5 @@
 
 - ⭐ Contributed to the NZ Tourism and Aviation industry [NZ Tourism forecasts and NZIER's paper ](https://www.mbie.govt.nz/assets/fbed8cd9b2/tourism-forecasts-2012-2018-technical-report.pdf)
 
-- ⭐ Research on social sciences [THE SOCIAL PROCESSES AND FACTORS AFFECTING ORGANIZATIONAL KNOWLEDGE
-CREATION AND SHARING IN NEW ZEALAND FIRMS] (https://dergipark.org.tr/tr/download/article-file/1924863)
+- ⭐ Research on social sciences [The Social Processes and Factors Affecting Organizational Knowledge
+Creation and Sharing in New Zealand Firms] (https://dergipark.org.tr/tr/download/article-file/1924863)
